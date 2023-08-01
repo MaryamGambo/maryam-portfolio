@@ -1639,11 +1639,6 @@
   resolved "https://registry.npmjs.org/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz"
   integrity sha512-Hcv+nVC0kZnQ3tD9GVu5xSMR4VVYOteQIr/hwFPVEvPdlXqgGEuRjiheChHgdM+JyqdgNcmzZOX/tnl0JOiI7A==
 
-"@maryamgambo/react-component-library@npm:@MaryamGambo/react-component-library@^1.0.1":
-  version "1.0.1"
-  resolved "https://npm.pkg.github.com/download/@MaryamGambo/react-component-library/1.0.1/7442e36022035894bc6ba42d555e64cca3a6a74c"
-  integrity sha512-mUzcLbC7HKtxmoFB5oC1+6NfO8YfKOIPZsyLIPHtaheEpeCd0zIvWV3TPHlQ5+i6Wv3DoKplA7id5s8dp7c2lA==
-
 "@nicolo-ribaudo/eslint-scope-5-internals@5.1.1-v1":
   version "5.1.1-v1"
   resolved "https://registry.npmjs.org/@nicolo-ribaudo/eslint-scope-5-internals/-/eslint-scope-5-internals-5.1.1-v1.tgz"
@@ -7922,7 +7917,7 @@ react-dev-utils@^12.0.1:
     strip-ansi "^6.0.1"
     text-table "^0.2.0"
 
-react-dom@^18.0.0, react-dom@^18.2.0, "react-dom@>= 16.8.0", react-dom@18.2.0:
+react-dom@^18.0.0, react-dom@^18.2.0, "react-dom@>= 16.8.0":
   version "18.2.0"
   resolved "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz"
   integrity sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==

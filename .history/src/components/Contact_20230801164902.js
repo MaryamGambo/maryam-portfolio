@@ -1,4 +1,5 @@
 import React from "react";
+import { Button, Label } from "@maryamgambo/react-component-library";
 
 export default function Contact() {
   const [name, setName] = React.useState("");

@@ -1,4 +1,5 @@
 import React from "react";
+import { Button, Label } from "@maryamgambo/react-component-library";
 
 export default function Contact() {
   const [name, setName] = React.useState("");
@@ -112,11 +113,11 @@ export default function Contact() {
               onChange={(e) => setMessage(e.target.value)}
             />
           </div>
-          <button
+          <Button
             type="submit"
-            className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">
-            Submit
-            </button>
+            className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+            label= "Submit"
+          />
         </form>
       </div>
     </section>
