@@ -33,14 +33,14 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "I had the pleasure of collaborating with Maryam on multiple projects, and I must say their web development skills are truly exceptional. Their proficiency in HTML5, CSS3, and JavaScript shines through in every project they undertake. From creating feature-rich e-commerce websites using Ruby on Rails to crafting intuitive user interfaces with React, she consistently delivers top-notch results.",
+      "Maryam is an exceptional web developer. Their proficiency in HTML5, CSS3, and JavaScript delivers outstanding results every time.",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
     name: "Jesse Hicks",
     company: "Zoozle",
   },
   {
     quote:
-      "Working with Maryam has been a game-changer for our projects. Their expertise in PHP and SQL queries, combined with their ability to understand complex requirements, enables them to build robust and efficient web applications. I was particularly impressed with their work on the Movies World project, where they seamlessly integrated PHP, HTML, CSS, and JavaScript to create a captivating Movies Content Management System.",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
     image: "https://randomuser.me/api/portraits/men/94.jpg",
     name: "Ruben Alvarez",
     company: "Dooble.io",
